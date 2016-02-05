@@ -3,6 +3,7 @@
     "app.json",
     ".gitignore",
     "package.json",
+    ".gitignore",
     "account.json",
     "Procfile"
   ],

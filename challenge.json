@@ -1,6 +1,7 @@
 {
   "editable": [
     "app.json",
+    ".gitignore",
     "package.json",
     ".gitignore",
     "account.json",
@@ -8,6 +9,12 @@
   ],
   "exclude": [
     "challenge.json"
+  ],
+  "tags": [
+    "Express",
+    "Heroku",
+    "Node.js",
+    "mocha"
   ],
   "readme": {
     "ja": "README_ja.md",
